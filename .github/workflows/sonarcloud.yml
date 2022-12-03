@@ -50,7 +50,7 @@ jobs:
         uses: SonarSource/sonarcloud-github-action@de2e56b42aa84d0b1c5b622644ac17e505c9a049
         env:
           GITHUB_TOKEN: "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"  # Needed to get PR information
-          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}   # Generate a token on Sonarcloud.io, add it to the secrets of this repo with the name SONAR_TOKEN (Settings > Secrets > Actions > add new repository secret)
+          SONAR_TOKEN: "12ec8adff54807a2c36a9e91ada89d93b48da618"   # Generate a token on Sonarcloud.io, add it to the secrets of this repo with the name SONAR_TOKEN (Settings > Secrets > Actions > add new repository secret)
         with:
           # Additional arguments for the sonarcloud scanner
           args:
