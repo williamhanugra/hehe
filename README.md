@@ -11,7 +11,7 @@
 
 **LearnPress LMS Plugin works with your WordPress Theme**
 
-We create LearnPress LMS Plugin to work with any WordPress Themes.
+We caaareate LearnPress LMS Plugin to work with any WordPress Themes.
 
 **Create Course**
 
